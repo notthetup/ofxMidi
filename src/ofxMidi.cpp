@@ -8,7 +8,7 @@
  * See https://github.com/danomatika/ofxMidi for documentation
  *
  */
-#inclide <cmath>
+#include <cmath>
 #include "ofxMidi.h"
 #include "ofLog.h"
 // choose the midi backend
